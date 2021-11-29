@@ -1,0 +1,20 @@
+{
+    "name": "ironman2021666/number-format",
+    "description": "一个处理数字的包",
+    "autoload": {
+        "psr-4": {
+            "Ironman2021666\\NumberFormat\\": "src/"
+        }
+    },
+    "minimum-stability": "dev",
+    "authors": [
+        {
+            "name": "ironman2021666",
+            "email": "wanyangyue2018@gmail.com"
+        }
+    ],
+    "require": {
+        "php": ">=5.3.0"
+    },
+    "license": "MIT"
+}
